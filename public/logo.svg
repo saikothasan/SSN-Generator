@@ -1,0 +1,43 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  width="300"
+  height="150"
+  viewBox="0 0 300 150"
+>
+  <!-- Background Circle -->
+  <circle cx="75" cy="75" r="70" fill="#007bff" />
+
+  <!-- SSN Text -->
+  <text
+    x="75"
+    y="85"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="40"
+    font-weight="bold"
+    fill="#ffffff"
+  >
+    SSN
+  </text>
+
+  <!-- Gen Text -->
+  <text
+    x="75"
+    y="120"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="18"
+    font-weight="normal"
+    fill="#ffffff"
+  >
+    Gen
+  </text>
+
+  <!-- Accents -->
+  <path
+    d="M 150 10 L 280 75 L 150 140 Z"
+    fill="#ffc107"
+    opacity="0.7"
+  />
+</svg>
